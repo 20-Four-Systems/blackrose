@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="d1ba-34b1-1834-ad5f" name="Deadwood Wildhunt" revision="2" battleScribeVersion="2.03" library="false" gameSystemId="6986-d064-5572-d0a1" gameSystemRevision="2" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <selectionEntries>
+    <selectionEntry id="049d-ee7c-3169-600c" name="Allegience" hidden="false" collective="false" import="true" type="upgrade">
+      <categoryLinks>
+        <categoryLink id="14fe-9688-77a6-44ae" name="New CategoryLink" hidden="false" targetId="a770-b7e2-a1aa-5857" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="4447-827d-3e70-ec6c" name="Allegience" hidden="false" collective="false" import="true" targetId="9490-233a-7586-6d00" type="selectionEntryGroup">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ca49-9dd4-c6fe-1f9b" type="max"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c014-660a-a2be-2c2e" type="min"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name="pts" typeId="points" value="0.0"/>
+      </costs>
+    </selectionEntry>
+  </selectionEntries>
+  <entryLinks>
+    <entryLink id="70fe-a103-2f9a-57eb" name="Deadwood Spearman" hidden="false" collective="false" import="true" targetId="8326-7150-dc04-2249" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="be50-d6b0-2218-a3c0" name="Warband Captain" hidden="false" targetId="aae3-9ca7-132d-7b44" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="091b-568a-3449-c7b5" name="Deadwood Rifleman" hidden="false" collective="false" import="true" targetId="3d6e-3e41-d093-b060" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="94c7-6e49-5a34-0e22" name="New CategoryLink" hidden="false" targetId="aae3-9ca7-132d-7b44" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1487-27cb-afe3-b8c6" name="Deadwood Spearman" hidden="false" collective="false" import="true" targetId="8326-7150-dc04-2249" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a606-652b-31a4-1c77" name="Warband Units" hidden="false" targetId="326b-a5d3-2b74-4e4c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="bb4f-b2c0-a8bd-0af4" name="Deadwood Rifleman" hidden="false" collective="false" import="true" targetId="3d6e-3e41-d093-b060" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="39ed-7018-3b46-1d6f" name="Warband Units" hidden="false" targetId="326b-a5d3-2b74-4e4c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c89d-04fe-b319-2417" name="Swamp Hermit" hidden="false" collective="false" import="true" targetId="1a2a-04f3-8df0-67ec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="abc1-76f8-c62b-00f0" name="New CategoryLink" hidden="false" targetId="aae3-9ca7-132d-7b44" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="324f-8975-d428-9b7b" name="Swamp Hermit" hidden="false" collective="false" import="true" targetId="1a2a-04f3-8df0-67ec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9a96-964b-5b32-29e0" name="New CategoryLink" hidden="false" targetId="326b-a5d3-2b74-4e4c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1484-2aa8-6665-1fed" name="Bog Wildling" hidden="false" collective="false" import="true" targetId="2f5d-a805-22be-f7db" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0f69-8a30-aa59-73a8" name="New CategoryLink" hidden="false" targetId="aae3-9ca7-132d-7b44" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d925-f86e-6812-eff7" name="Bog Wildling" hidden="false" collective="false" import="true" targetId="2f5d-a805-22be-f7db" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ac13-26b3-b490-0e02" name="Warband Units" hidden="false" targetId="326b-a5d3-2b74-4e4c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e5b1-1ecd-2e4d-0527" name="Bog Wolfrider" hidden="false" collective="false" import="true" targetId="4c5f-9566-d337-8ea8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7ff3-c38e-903a-efed" name="New CategoryLink" hidden="false" targetId="aae3-9ca7-132d-7b44" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="655f-0c65-c987-8db0" name="Bog Wolfrider" hidden="false" collective="false" import="true" targetId="4c5f-9566-d337-8ea8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0875-02ac-0cc2-365f" name="Warband Units" hidden="false" targetId="326b-a5d3-2b74-4e4c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3eb7-a581-f402-d47f" name="Black Roserider" hidden="false" collective="false" import="true" targetId="36f2-8461-5f18-253d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="215e-c5f8-0786-d95b" name="New CategoryLink" hidden="false" targetId="aae3-9ca7-132d-7b44" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3744-0077-9e90-526f" name="Black Roserider" hidden="false" collective="false" import="true" targetId="36f2-8461-5f18-253d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2dce-fc00-6fd1-c03c" name="Warband Units" hidden="false" targetId="326b-a5d3-2b74-4e4c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8d3d-85a2-1996-985f" name="Manu Moonpriest" hidden="false" collective="false" import="true" targetId="75ad-98d5-1833-cd30" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="dc07-534c-33a6-b03a" name="New CategoryLink" hidden="false" targetId="aae3-9ca7-132d-7b44" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ea32-d67e-458a-cd30" name="Manu Moonpriest" hidden="false" collective="false" import="true" targetId="75ad-98d5-1833-cd30" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="83c7-02c5-afc6-db8e" name="Warband Units" hidden="false" targetId="326b-a5d3-2b74-4e4c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="765f-ce32-2649-a04c" name="Sunfire Sniper" hidden="false" collective="false" import="true" targetId="1f03-dd03-9c95-8a9c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b3f0-58a5-795d-5b3e" name="New CategoryLink" hidden="false" targetId="aae3-9ca7-132d-7b44" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="da7b-8319-d1e1-b2d3" name="Sunfire Sniper" hidden="false" collective="false" import="true" targetId="1f03-dd03-9c95-8a9c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="975a-972b-30fb-4e66" name="Warband Units" hidden="false" targetId="326b-a5d3-2b74-4e4c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+  <sharedSelectionEntries>
+    <selectionEntry id="8326-7150-dc04-2249" name="Deadwood Spearman" publicationId="96c4-610b-7447-7b4b" page="2" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="7c5b-5553-d033-c7b0" name="Force of Arms (passive)" publicationId="6855-b701-bc0c-9b69" page="2" hidden="false" targetId="ce34-8562-88ad-6e4a" type="rule"/>
+        <infoLink id="8dc7-9dfa-aa3e-18b7" name="Marksman (passive)" publicationId="6855-b701-bc0c-9b69" page="2" hidden="false" targetId="9b43-4be6-249e-1c4d" type="rule"/>
+        <infoLink id="bd39-65a6-4760-6df2" name="Deadwood Spearman (Unit Chart)" hidden="false" targetId="13b8-6f9d-5559-9087" type="profile"/>
+      </infoLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="8065-b809-2d3a-f50c" name="Weapon choices" page="" hidden="false" collective="false" import="true">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="f1fe-aa85-eb7c-4f89" name="Choose your first Weapon:" hidden="false" collective="false" import="true" defaultSelectionEntryId="cf48-0bcf-2d2e-f751">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="569b-9cd2-59a8-821b" type="max"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="b3cc-c210-18fb-7c4c" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="cf48-0bcf-2d2e-f751" name="Deadwood axe" hidden="false" collective="false" import="true" targetId="7888-7308-8e10-535a" type="selectionEntry"/>
+                <entryLink id="f476-f500-5292-fd8d" name="Deadwood shortspear" hidden="false" collective="false" import="true" targetId="cabf-8045-4623-2671" type="selectionEntry"/>
+                <entryLink id="8252-9a17-9386-da01" name="Deadwood longspear" hidden="false" collective="false" import="true" targetId="6c6e-6eec-d7bd-0f57" type="selectionEntry"/>
+                <entryLink id="06b0-75d2-486c-92fe" name="Deadwood glaive" hidden="false" collective="false" import="true" targetId="6f62-d857-2092-41e7" type="selectionEntry"/>
+              </entryLinks>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="ca5b-453c-577e-bd81" name="Choose your second Weapon:" hidden="false" collective="false" import="true" defaultSelectionEntryId="abe2-b5ac-43a2-f1a7">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="a310-2d2e-32fb-fd31" type="max"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="004b-8ec3-5300-59a6" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="abe2-b5ac-43a2-f1a7" name="Bag of javelins" hidden="false" collective="false" import="true" targetId="2cec-2bea-04f0-c565" type="selectionEntry"/>
+              </entryLinks>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <costs>
+        <cost name="pts" typeId="points" value="50.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3d6e-3e41-d093-b060" name="Deadwood Rifleman" publicationId="96c4-610b-7447-7b4b" page="2" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="67e3-2432-2458-ef48" name="Brutal Assault (passive)" publicationId="6855-b701-bc0c-9b69" page="2" hidden="false" targetId="e458-301a-62a4-5406" type="rule"/>
+        <infoLink id="bc67-832e-3122-a9c4" name="Marksman (passive)" publicationId="6855-b701-bc0c-9b69" page="2" hidden="false" targetId="9b43-4be6-249e-1c4d" type="rule"/>
+        <infoLink id="655f-eb7b-f40d-b37e" name="Deadwood Rifleman (Unit Chart)" hidden="false" targetId="2542-03ee-0416-3536" type="profile"/>
+      </infoLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="975e-06ef-72b1-c1f7" name="Weapon choices" page="" hidden="false" collective="false" import="true">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="a1df-88ff-9c1d-a065" name="Choose your first Weapon:" hidden="false" collective="false" import="true" defaultSelectionEntryId="8579-9fef-190e-6494">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="6886-bfdc-76bf-801a" type="max"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="bb74-5004-f913-7963" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="8579-9fef-190e-6494" name="Bogfire pistol" hidden="false" collective="false" import="true" targetId="66f6-86df-4804-6182" type="selectionEntry"/>
+              </entryLinks>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="9912-1ada-faf4-97a5" name="Choose your second Weapon:" hidden="false" collective="false" import="true" defaultSelectionEntryId="60ab-49c9-0430-0b3d">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="a716-e5b6-5ed5-dc25" type="max"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="d4dd-5ba7-3ead-33fb" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="60ab-49c9-0430-0b3d" name="Bag of javelins" hidden="false" collective="false" import="true" targetId="2cec-2bea-04f0-c565" type="selectionEntry"/>
+                <entryLink id="5438-fdd0-efb0-83e1" name="Bogfire rifle w/ bayonet" hidden="false" collective="false" import="true" targetId="51bf-cdde-4976-3da8" type="selectionEntry"/>
+                <entryLink id="583e-2287-a27c-5c3e" name="Bogfire rifle" hidden="false" collective="false" import="true" targetId="ea39-fc1b-c804-0b7f" type="selectionEntry"/>
+              </entryLinks>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <costs>
+        <cost name="pts" typeId="points" value="50.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1a2a-04f3-8df0-67ec" name="Swamp Hermit" publicationId="96c4-610b-7447-7b4b" page="2" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="8c4a-28aa-0978-a257" name="Overflowing Power (passive)" publicationId="6855-b701-bc0c-9b69" page="2" hidden="false" targetId="88db-1948-f199-5703" type="rule"/>
+        <infoLink id="a66c-00ab-772a-399a" name="Stealth (passive)" publicationId="6855-b701-bc0c-9b69" page="2" hidden="false" targetId="610a-4dc4-5ec1-37d3" type="rule"/>
+        <infoLink id="883a-15a1-d621-11ab" name="Swamp Hermit (Unit Chart)" hidden="false" targetId="f3a5-6469-1549-c162" type="profile"/>
+      </infoLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="109b-76f3-906f-f4a1" name="Weapon choices" page="" hidden="false" collective="false" import="true">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="15f6-fcbe-1d36-a445" name="Choose your first Weapon:" hidden="false" collective="false" import="true" defaultSelectionEntryId="0396-54aa-66be-808c">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="e578-c24d-3eab-dbcb" type="max"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="b6f0-c910-6cb3-4df7" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="0396-54aa-66be-808c" name="Gnarled staff" hidden="false" collective="false" import="true" targetId="4b20-41a7-b50b-59b4" type="selectionEntry"/>
+                <entryLink id="a007-047d-057a-ba55" name="Deadwood axe" hidden="false" collective="false" import="true" targetId="7888-7308-8e10-535a" type="selectionEntry"/>
+              </entryLinks>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="2dad-3a86-0c95-3d1b" name="Choose your second Weapon:" hidden="false" collective="false" import="true" defaultSelectionEntryId="d82b-838e-7102-4a11">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="2f22-4d8b-bc7c-e37b" type="max"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="05e1-dc87-9a7d-db53" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="d82b-838e-7102-4a11" name="Living roots" hidden="false" collective="false" import="true" targetId="7a71-b0a9-39e9-3bbb" type="selectionEntry"/>
+                <entryLink id="08f3-7ca9-e830-09d0" name="Swamp flame" hidden="false" collective="false" import="true" targetId="4d44-0bdb-52c0-b055" type="selectionEntry"/>
+              </entryLinks>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <costs>
+        <cost name="pts" typeId="points" value="50.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2f5d-a805-22be-f7db" name="Bog Wildling" publicationId="96c4-610b-7447-7b4b" page="2" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="feb7-acdb-8208-d909" name="Brutal Assault (passive)" publicationId="6855-b701-bc0c-9b69" page="2" hidden="false" targetId="e458-301a-62a4-5406" type="rule"/>
+        <infoLink id="c76d-f494-a7c0-b924" name="Stealth (passive)" publicationId="6855-b701-bc0c-9b69" page="2" hidden="false" targetId="610a-4dc4-5ec1-37d3" type="rule"/>
+        <infoLink id="ad8d-5380-c588-13e7" name="Bog Wildlinng (Unit Chart)" hidden="false" targetId="2b2b-60f3-55e8-b201" type="profile"/>
+      </infoLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="ac35-fba6-e70e-9791" name="Weapon choices" page="" hidden="false" collective="false" import="true">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="5ec7-4462-4699-274a" name="Choose your first Weapon:" hidden="false" collective="false" import="true" defaultSelectionEntryId="eeda-a30c-49c7-bc78">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="d592-ba82-a24c-cf43" type="max"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="0a83-d56f-8222-06b2" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="eeda-a30c-49c7-bc78" name="Deadwood shortspear" hidden="false" collective="false" import="true" targetId="cabf-8045-4623-2671" type="selectionEntry"/>
+              </entryLinks>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="35c1-95bb-360c-a6f1" name="Choose your second Weapon:" hidden="false" collective="false" import="true" defaultSelectionEntryId="9375-7735-6687-4566">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="fcbb-7bb8-a162-ca38" type="max"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="963a-74c8-6270-b1f5" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="9375-7735-6687-4566" name="Bag of javelins" hidden="false" collective="false" import="true" targetId="2cec-2bea-04f0-c565" type="selectionEntry"/>
+                <entryLink id="6dfb-b906-3be6-89fe" name="Bogfire rifle" hidden="false" collective="false" import="true" targetId="ea39-fc1b-c804-0b7f" type="selectionEntry"/>
+              </entryLinks>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <costs>
+        <cost name="pts" typeId="points" value="40.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4c5f-9566-d337-8ea8" name="Bog Wolfrider" publicationId="96c4-610b-7447-7b4b" page="2" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="84f7-095d-15e9-efb1" name="Mounted" publicationId="6855-b701-bc0c-9b69" page="2" hidden="false" targetId="039c-c572-393e-7dd1" type="rule"/>
+        <infoLink id="dc4c-7ba2-a656-17f8" name="Mount (Bog Wolf)" publicationId="6855-b701-bc0c-9b69" page="2" hidden="false" targetId="60b8-1dfb-0476-e9b3" type="rule"/>
+        <infoLink id="f3df-2e7a-d7a2-7d07" name="Force of Arms (passive)" publicationId="6855-b701-bc0c-9b69" page="2" hidden="false" targetId="ce34-8562-88ad-6e4a" type="rule"/>
+        <infoLink id="8153-9501-f30c-8364" name="Brutal Assault (passive)" publicationId="6855-b701-bc0c-9b69" page="2" hidden="false" targetId="e458-301a-62a4-5406" type="rule"/>
+        <infoLink id="1ea4-fa6f-8429-03c1" name="Bog Wolfrider (Unit Chart)" hidden="false" targetId="a175-fb26-a7fc-2831" type="profile"/>
+      </infoLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="a854-da59-884e-0613" name="Weapon choices" page="" hidden="false" collective="false" import="true">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="4af7-bfb9-7b6d-0b7e" name="Choose your first Weapon:" hidden="false" collective="false" import="true" defaultSelectionEntryId="3508-4f75-7084-40da">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="38b5-bad7-339c-2170" type="max"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="5469-9cfb-c645-6610" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="02c7-2854-511b-a08f" name="Deadwood shortspear" hidden="false" collective="false" import="true" targetId="cabf-8045-4623-2671" type="selectionEntry"/>
+                <entryLink id="3508-4f75-7084-40da" name="Deadwood axe" hidden="false" collective="false" import="true" targetId="7888-7308-8e10-535a" type="selectionEntry"/>
+                <entryLink id="5a68-67a4-d1f3-492d" name="Deadwood glaive" hidden="false" collective="false" import="true" targetId="6f62-d857-2092-41e7" type="selectionEntry"/>
+                <entryLink id="978b-a12c-ebf1-eb14" name="Deadwood longspear" hidden="false" collective="false" import="true" targetId="6c6e-6eec-d7bd-0f57" type="selectionEntry"/>
+              </entryLinks>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="86d2-1dd7-3e78-fe19" name="Choose your second Weapon:" hidden="false" collective="false" import="true" defaultSelectionEntryId="0b1d-2875-e055-58bc">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="6574-396c-5920-1f23" type="max"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="a406-d4fe-dc23-ebac" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="0b1d-2875-e055-58bc" name="Bag of javelins" hidden="false" collective="false" import="true" targetId="2cec-2bea-04f0-c565" type="selectionEntry"/>
+                <entryLink id="6024-48cb-fdf0-8dfa" name="Bogfire rifle" hidden="false" collective="false" import="true" targetId="ea39-fc1b-c804-0b7f" type="selectionEntry"/>
+              </entryLinks>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <costs>
+        <cost name="pts" typeId="points" value="60.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="36f2-8461-5f18-253d" name="Black Roserider" publicationId="96c4-610b-7447-7b4b" page="2" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="32ad-8afd-23c0-98ab" name="Mounted" publicationId="6855-b701-bc0c-9b69" page="2" hidden="false" targetId="039c-c572-393e-7dd1" type="rule"/>
+        <infoLink id="a396-0c69-296a-f356" name="Mount (Bog Wolf)" publicationId="6855-b701-bc0c-9b69" page="2" hidden="false" targetId="60b8-1dfb-0476-e9b3" type="rule"/>
+        <infoLink id="ff73-dfbc-6831-1846" name="Marksman (passive)" publicationId="6855-b701-bc0c-9b69" page="2" hidden="false" targetId="9b43-4be6-249e-1c4d" type="rule"/>
+        <infoLink id="8b1c-aaab-1ddd-b69b" name="Brutal Assault (passive)" publicationId="6855-b701-bc0c-9b69" page="2" hidden="false" targetId="e458-301a-62a4-5406" type="rule"/>
+        <infoLink id="2fe9-2ec9-d381-de96" name="Black Roserider (Unit Chart)" hidden="false" targetId="6f1e-6726-79c7-2437" type="profile"/>
+      </infoLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="0130-c376-161a-7335" name="Weapon choices" page="" hidden="false" collective="false" import="true">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="78b5-ca5f-c705-10e4" name="Choose your first Weapon:" hidden="false" collective="false" import="true" defaultSelectionEntryId="9a42-8ce8-6eab-387d">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="e39b-6e20-8f60-9450" type="max"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="955d-05c0-47af-fa1c" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="c355-24a2-6dc9-5c5a" name="Burntoak shortbow" hidden="false" collective="false" import="true" targetId="07bf-796c-5e7b-28f6" type="selectionEntry"/>
+                <entryLink id="9a42-8ce8-6eab-387d" name="Bogfire pistol" hidden="false" collective="false" import="true" targetId="66f6-86df-4804-6182" type="selectionEntry"/>
+                <entryLink id="7cd2-c8c9-a4d6-1f60" name="Bogfire rifle" hidden="false" collective="false" import="true" targetId="ea39-fc1b-c804-0b7f" type="selectionEntry"/>
+                <entryLink id="1a2c-c0ec-8db3-9e03" name="Bogfire rifle w/ bayonet" hidden="false" collective="false" import="true" targetId="51bf-cdde-4976-3da8" type="selectionEntry"/>
+                <entryLink id="f835-04e6-26ab-bff2" name="Burntoak longbow" hidden="false" collective="false" import="true" targetId="c2f4-3d8c-3f29-41a9" type="selectionEntry"/>
+              </entryLinks>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="ea1a-b342-930d-1614" name="Choose your second Weapon:" hidden="false" collective="false" import="true">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="be15-0498-62b0-cfd0" type="max"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="da1f-3816-73fc-9a96" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="9379-60d3-c2fb-f4d6" name="Bogfire pistol" hidden="false" collective="false" import="true" targetId="66f6-86df-4804-6182" type="selectionEntry"/>
+              </entryLinks>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <costs>
+        <cost name="pts" typeId="points" value="80.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="75ad-98d5-1833-cd30" name="Manu Moonpriest" publicationId="96c4-610b-7447-7b4b" page="2" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="1c9d-419f-4f78-ee70" name="Heal (x2 Fire/Advance)" publicationId="6855-b701-bc0c-9b69" page="2" hidden="false" targetId="75ef-66a9-bd02-f767" type="rule"/>
+        <infoLink id="8eac-193f-9741-445b" name="Precognition" publicationId="6855-b701-bc0c-9b69" page="2" hidden="false" targetId="58fc-d47c-0923-ea5f" type="rule"/>
+        <infoLink id="5d0d-a5a2-84e4-ec82" name="Sacred Chant (passive)" publicationId="6855-b701-bc0c-9b69" page="2" hidden="false" targetId="c831-75ed-123f-aa08" type="rule"/>
+        <infoLink id="c005-9ef3-0099-b4a8" name="Manu Moonpriest (Unit Chart)" hidden="false" targetId="23a0-6efa-6964-a4bc" type="profile"/>
+      </infoLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="e03d-6347-149d-8e9a" name="Weapon choices" page="" hidden="false" collective="false" import="true">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="18dc-7d8f-476a-a4d3" name="Choose your first Weapon:" hidden="false" collective="false" import="true" defaultSelectionEntryId="61d7-6897-7780-6700">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="58ab-43fa-bb28-ecff" type="max"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="4f53-6cd2-6443-6712" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="61d7-6897-7780-6700" name="Gnarled staff" hidden="false" collective="false" import="true" targetId="4b20-41a7-b50b-59b4" type="selectionEntry"/>
+                <entryLink id="bf3e-d9c7-a83a-1139" name="Ritual dagger" hidden="false" collective="false" import="true" targetId="1571-2268-7da3-b89f" type="selectionEntry"/>
+              </entryLinks>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="8663-1193-d721-84cd" name="Choose your second Weapon:" hidden="false" collective="false" import="true" defaultSelectionEntryId="24fd-cac7-f9dc-d983">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="528b-d84d-7354-bff3" type="max"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="6a83-0f1e-039f-d1a9" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="24fd-cac7-f9dc-d983" name="Moonfire blast" hidden="false" collective="false" import="true" targetId="077c-5b9b-7b13-444d" type="selectionEntry"/>
+                <entryLink id="6790-570e-9e76-01b1" name="Moonlight cure" hidden="false" collective="false" import="true" targetId="c7ef-85d8-569a-00e6" type="selectionEntry"/>
+              </entryLinks>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <costs>
+        <cost name="pts" typeId="points" value="70.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1f03-dd03-9c95-8a9c" name="Sunfire Sniper" publicationId="96c4-610b-7447-7b4b" page="2" hidden="false" collective="false" import="true" type="unit">
+      <infoLinks>
+        <infoLink id="b618-a057-7708-6397" name="Rapid Fire (x2 Fire/Advance)" publicationId="6855-b701-bc0c-9b69" page="2" hidden="false" targetId="179d-f6ea-8098-56db" type="rule"/>
+        <infoLink id="dbd2-0ba7-b054-d399" name="Sunfire Shot (x3 Fire)" publicationId="6855-b701-bc0c-9b69" page="2" hidden="false" targetId="2635-9364-881b-99c5" type="rule"/>
+        <infoLink id="b5a1-1a5c-a294-d2dc" name="Marksman (passive)" publicationId="6855-b701-bc0c-9b69" page="2" hidden="false" targetId="9b43-4be6-249e-1c4d" type="rule"/>
+        <infoLink id="7059-a892-9f59-eff7" name="Sunfire Sniper (Unit Chart)" hidden="false" targetId="0ff3-725f-13cd-f584" type="profile"/>
+      </infoLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="de26-c062-2ab6-9f2b" name="Weapon choices" page="" hidden="false" collective="false" import="true">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="905a-a9b9-d5c8-47fd" name="Choose your first Weapon:" hidden="false" collective="false" import="true" defaultSelectionEntryId="8211-d44e-5e17-6961">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="907d-caa2-aec5-2c9f" type="max"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="2a49-e1a1-7e35-2400" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="8211-d44e-5e17-6961" name="Bogfire pistol" hidden="false" collective="false" import="true" targetId="66f6-86df-4804-6182" type="selectionEntry"/>
+                <entryLink id="bfeb-40be-00f8-1444" name="Bogfire rifle" hidden="false" collective="false" import="true" targetId="ea39-fc1b-c804-0b7f" type="selectionEntry"/>
+                <entryLink id="68b9-339a-fa3c-60ce" name="Bogfire rifle w/ bayonet" hidden="false" collective="false" import="true" targetId="51bf-cdde-4976-3da8" type="selectionEntry"/>
+                <entryLink id="eec9-0962-17bf-fbec" name="Burntoak shortbow" hidden="false" collective="false" import="true" targetId="07bf-796c-5e7b-28f6" type="selectionEntry"/>
+                <entryLink id="a40e-cddb-f64f-fb9a" name="Burntoak longbow" hidden="false" collective="false" import="true" targetId="c2f4-3d8c-3f29-41a9" type="selectionEntry"/>
+              </entryLinks>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="482a-d77d-7865-1bc8" name="Choose your second Weapon:" hidden="false" collective="false" import="true" defaultSelectionEntryId="c092-f2b9-6cdc-dac4">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="78db-23d0-6897-5ee4" type="max"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="ea2d-bd3c-32d3-d78b" type="min"/>
+              </constraints>
+              <entryLinks>
+                <entryLink id="c092-f2b9-6cdc-dac4" name="Bogfire pistol" hidden="false" collective="false" import="true" targetId="66f6-86df-4804-6182" type="selectionEntry"/>
+              </entryLinks>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <costs>
+        <cost name="pts" typeId="points" value="80.0"/>
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+  <sharedSelectionEntryGroups>
+    <selectionEntryGroup id="9490-233a-7586-6d00" name="Allegience" hidden="false" collective="false" import="true">
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="56c5-7ba3-92fd-5536" type="min"/>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cda4-125a-30e0-5a62" type="max"/>
+      </constraints>
+      <selectionEntries>
+        <selectionEntry id="6a6e-868b-ec4e-251f" name="Host of Black Roses" publicationId="96c4-610b-7447-7b4b" page="1" hidden="false" collective="true" import="true" type="upgrade">
+          <infoLinks>
+            <infoLink id="353f-ae64-861a-110f" name="Queen&apos;s Charge (x3 Run)" hidden="false" targetId="94f8-7c92-e87f-6fcf" type="rule"/>
+          </infoLinks>
+          <costs>
+            <cost name="pts" typeId="points" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="46be-1793-85c5-ec63" name="Mooncult of Manu" publicationId="96c4-610b-7447-7b4b" page="1" hidden="false" collective="true" import="true" type="upgrade">
+          <infoLinks>
+            <infoLink id="42c6-9df8-a633-a605" name="Moonlight Recall (x3 Fire/Advance)" hidden="false" targetId="52f2-d73f-10ea-45b9" type="rule"/>
+          </infoLinks>
+          <costs>
+            <cost name="pts" typeId="points" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="eed7-ae48-b031-c47d" name="Sunfires of Soni" publicationId="96c4-610b-7447-7b4b" page="1" hidden="false" collective="true" import="true" type="upgrade">
+          <infoLinks>
+            <infoLink id="ffe3-f384-0557-fc08" name="Merciless Sunlight (x4 Fire/Advance)" hidden="false" targetId="7389-3ae9-67e9-918f" type="rule"/>
+          </infoLinks>
+          <costs>
+            <cost name="pts" typeId="points" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+  </sharedSelectionEntryGroups>
+</catalogue>
