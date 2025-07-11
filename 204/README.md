@@ -4,7 +4,7 @@ A full breakdown of the 204 module for the *Black Rose* setting.
 
 ## Races
 
-<details>
+<details open>
 	<summary>Dwarf</summary>
 
 *Born to dirt and as stoic as they are stout, the Dwarfish master-smiths occupy much of the known world.*
@@ -21,7 +21,7 @@ A full breakdown of the 204 module for the *Black Rose* setting.
 
 </details>
 
-<details>
+<details open>
 	<summary>Swamp elf</summary>
 
 *Swamp elves are a savage and noble race of elven barbarians, ruling over the decaying swamps of the Deadwoods with a brutal code of honour.*
