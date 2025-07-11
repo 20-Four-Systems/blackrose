@@ -1,20 +1,39 @@
 # 204 Module | Black Rose
 
-## Races
-Here lists all of the races in this *Black Rose* 204 module:
+A full breakdown of the 204 module for the *Black Rose* setting.
 
-<details open>
+## Races
+
+<details>
 	<summary>Dwarf</summary>
 
+*Born to dirt and as stoic as they are stout, the Dwarfish master-smiths occupy much of the known world.*
 | **Dwarf (Race Table)** | Roll | `D2 (1)` |
 | --- | --- | --- |
 | **Level 1** | **Level 3** | **Level 5** |
 | **Mountain Smith** `Grants +2 DMG when using hammers and maces.` | **Stout** `Grants +1 M / -1 W.` | **Earthblood** `Grants +2 DMG when using earth spells.` |
 
-| **Might** | **Skill** | **Will** |
+| **Stat (MSW)** | **Option 1** | **Option 2** |
 | --- | --- | --- |
-| `Racial melee 1: Dwarven hammer` | `Racial ranged 1: Fireforger hand cannon` | `Racial magic 1: Furnace blast` |
-| `Racial melee 2: Dwarven warhammer` | `Racial ranged 2: Fortress crossbow` | `Racial magic 2: Earthquake` |
+| **Melee** | *Racial melee 1: Dwarven hammer* | *Racial melee 2: Dwarven warhammer* |
+| **Ranged** | *Racial ranged 1: Fireforger hand cannon* | *Racial ranged 2: Fortress crossbow* |
+| **Wisdom** | *Racial magic 1: Furnace blast* | *Racial magic 2: Earthquake* |
 
 </details>
 
+<details>
+	<summary>Swamp elf</summary>
+
+*Swamp elves are a savage and noble race of elven barbarians, ruling over the decaying swamps of the Deadwoods with a brutal code of honour.*
+| **Swamp elf (Race Table)** | Roll | `D2 (2)` |
+| --- | --- | --- |
+| **Level 1** | **Level 3** | **Level 5** |
+| **Wildling** `Grants +1 DMG when using spears and rifles.` | **Ambushers** `Grants +1 S / -1 M.` | **Swampfolk** `Grants +2 DMG when using nature spells.` |
+
+| **Stat (MSW)** | **Option 1** | **Option 2** |
+| --- | --- | --- |
+| **Melee** | *Racial melee 1: Deadwood shortspear* | *Racial melee 2: Deadwood longspear* |
+| **Ranged** | *Racial ranged 1: Willowbark bow* | *Racial ranged 2: Deadwood bogrifle* |
+| **Wisdom** | *Racial magic 1: Swamp flame* | *Racial magic 2: Living roots* |
+
+</details>
